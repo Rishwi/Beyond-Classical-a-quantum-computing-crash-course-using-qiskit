@@ -1,2 +1,2 @@
 # Quantum-Algorithms
-In this Repo i will provide all quantum algorithms possible.
+This repository will have all the algorithms which are in the book Beyond Classical a crash course on QUantum Computing using Qiskit and IBM Q
